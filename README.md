@@ -9,7 +9,9 @@ Examples are written in Python 2.7. To use the precompiled Windows Python bindin
 I like PyCharm as an IDE - you can snag the community edition here: https://www.jetbrains.com/pycharm/download. If you don't want to clutter your machine with an IDE, Python's IDLE will work fine. 
 
 I use the ELK stack to demo log ingestion and hunting automation. There are many big data solutions that you could use for this, but if you'd like to follow along you should install these: 
+
 -ElasticSearch https://www.elastic.co/products/elasticsearch
+
 -LogStash https://www.elastic.co/products/logstash
 
 I'll be opening some files in a hex editor. If you'd like to follow along you'll need one too - on Windows I use Notepad++ with the hex editor plugin: https://notepad-plus-plus.org/download/v6.9.2.html
