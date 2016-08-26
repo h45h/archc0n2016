@@ -24,6 +24,8 @@ I'll be opening some files in a hex editor. If you'd like to follow along you'll
 
 You may also want FTK imager to view files on your local Windows machine: http://accessdata.com/product-download/digital-forensics/ftk-imager-version-3.4.2. If you want to mess with it beforehand, here's a simple guide I put together: https://drive.google.com/open?id=1802LtrMIz1LSK1D2wqcSlKqSaNyO2uIbZo6XIrhBmZ4. 
 
+I will refer to specific artifacts and explain their signifigance as time permits, but I suggest reviewing this poster for more information: https://www.sans.org/security-resources/posters/windows-forensics-evidence-of/75/download.
+
 Never EVER distribute other peoples' code or tools without reading the associated licenses for their tools and understanding their distribution terms. 
 
 
