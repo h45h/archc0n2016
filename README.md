@@ -26,6 +26,8 @@ You may also want FTK imager to view files on your local Windows machine: http:/
 
 I will refer to specific artifacts and explain their signifigance as time permits, but I suggest reviewing this poster for more information: https://www.sans.org/security-resources/posters/windows-forensics-evidence-of/75/download.
 
+Check out these YAML defs for specific locations: https://github.com/ForensicArtifacts/artifacts/tree/master/definitions. 
+
 Never EVER distribute other peoples' code or tools without reading the associated licenses for their tools and understanding their distribution terms. 
 
 
